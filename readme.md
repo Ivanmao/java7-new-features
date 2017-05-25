@@ -32,5 +32,6 @@ The following list contains links to the the enhancements pages in the Java SE 7
 * JDBC
 
 [Java SE 7 Features and Enhancements](http://www.oracle.com/technetwork/java/javase/jdk7-relnotes-418459.html)
+[java7-features](https://www.oreilly.com/learning/java7-features)
 
 
